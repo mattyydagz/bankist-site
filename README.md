@@ -1,3 +1,5 @@
+#Bankist Website
+
 This project was created to develop new DOM skills as well as improve on existing ones.
 
 Skills highlighted in this project:
